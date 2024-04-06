@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/coincapAPI/static/css/main.429de07f.css",
+    "main.js": "/github.io/coincapAPI/static/js/main.990d9098.js",
+    "static/js/787.8ddc8614.chunk.js": "/github.io/coincapAPI/static/js/787.8ddc8614.chunk.js",
+    "index.html": "/github.io/coincapAPI/index.html",
+    "main.429de07f.css.map": "/github.io/coincapAPI/static/css/main.429de07f.css.map",
+    "main.990d9098.js.map": "/github.io/coincapAPI/static/js/main.990d9098.js.map",
+    "787.8ddc8614.chunk.js.map": "/github.io/coincapAPI/static/js/787.8ddc8614.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.429de07f.css",
+    "static/js/main.990d9098.js"
+  ]
+}
